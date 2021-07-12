@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayfo1809
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Software engineering at Alx
+- 🌱 I’m currently Heading a Front-end web development training programme at RedWood Group PTY(LTD)
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me mphomamphoke@outlook.com
 
