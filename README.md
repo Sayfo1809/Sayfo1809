@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sayfo1809
+- 👋 Hi, I’m Mpho Mamphoke
 - 👀 I’m interested in Software engineering
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me mphomamphoke@outlook.com
